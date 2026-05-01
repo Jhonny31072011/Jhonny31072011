@@ -10,12 +10,6 @@
 **🎯 Interests**  
 - Corinthians 🖤🤍
 - Futebol/Futsal.
- 
-
-
-**📬 How to reach me**  
-
-Coloque
 
 **🧰 Current stack**  
 <div>  
