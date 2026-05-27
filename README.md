@@ -13,7 +13,10 @@
 
 **🧰 Current stack**  
 <div>
- <img src=""![Troféus do Corinthians](https://pinimg.com)/>
+<p align="center">
+  <img src="https://espncdn.com" width="400" alt="Corinthians Campeão">
+</p>
+
 
 
 
