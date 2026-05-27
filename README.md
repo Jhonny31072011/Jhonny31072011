@@ -13,7 +13,7 @@
 
 **🧰 Current stack**  
 <div>
- <img src=""https://icons8.com.br/icon/25284/corinthians/>
+ <img src=""![Troféus do Corinthians](https://pinimg.com)/>
 
 
 
